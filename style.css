@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     margin: 0;
-
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
@@ -54,6 +54,7 @@ input, button {
      #0600fe, #079eee);
      -webkit-background-clip: text;
      -webkit-text-fill-color: transparent;
+     cursor: pointer;
 }
 
 #new-task-submit:hover {
